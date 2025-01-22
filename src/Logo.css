@@ -1,0 +1,15 @@
+.Logo {
+    background-color: transparent;
+    /* border-color: 'navy', */
+    /* background-size: cover; */
+    /* border-bottom-left-radius: 20;
+    border-bottom-right-radius: 20;
+    border-top-right-radius: 20;
+    border-top-left-radius : 20; */
+    height: 70px;
+    width: 5%;
+    position: absolute;
+    left: 2px;
+    top: 33px
+
+} 
